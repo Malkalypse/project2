@@ -1,9 +1,10 @@
 {
-  "name": "test",
-  "version": "0.1.0",
-  "dependencies": {
-    "project1": "https://github.com/Malkalypse/project1.git"
-  },
+  "dependencies": [
+    {
+      "source": "https://github.com/Malkalypse/project1.git",
+      "version": "1.0.0"
+    }
+  ],
   "map": {
     "js": "public/src/javascript",
     "css": "public/src/styles",

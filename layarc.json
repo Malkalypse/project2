@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "dependencies": {
+    "project1": "https://example.com/project1.git"
+  },
+  "map": {
+    "js": "public/src/javascript",
+    "css": "public/src/styles",
+    "php": "public/src/php"
+  }
+}

@@ -2,7 +2,11 @@
   "dependencies": [
     {
       "source": "https://github.com/Malkalypse/project1.git",
-      "version": "1.0.0"
+      "version": {
+        "preferred": "0f64c2a9d086e9faa2a3622281583c884dcd0c5e",
+        "max": "20d30b42bf6c80356bc6298853cdcfaba2074e04",
+        "min": "e9e6323835f120ea4b40bbe596a7d0ff63970b41"
+      }
     }
   ],
   "map": {
